@@ -1,5 +1,3 @@
-![](https://github.com/sdp-dev/sdp-dev/blob/main/READ%20ME%20Header.jpg?raw=true)  
-
 ## <div align="center">hi! 👋🏽 i'm sachi, a computer science & economics major at barnard college 👩🏽‍💻📈</div>  
   
 
