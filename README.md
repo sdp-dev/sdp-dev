@@ -1,7 +1,7 @@
 ## <div align="center">hi! 👋🏽 i'm sachi, a computer science & economics major at barnard college 👩🏽‍💻📈</div>  
   
 
-- 🎧 i'm currently working w/ the spotify web api to develop my own content-based music recommendation algorithm  
+- 🎧 i'm currently working w/ the spotify web api to develop my own content-based music recommendation algorithm (and updating my github!)
   
 
 - 🪷 i'm learning web dev w/ react, next.js, and tailwind css  
