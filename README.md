@@ -1,4 +1,4 @@
-## <div align="center">hi! 👋🏽 i'm sachi, a computer science & economics major at barnard college 👩🏽‍💻📈</div>  
+## <div align="center">hi! 👋🏽 i'm sachi, a computer science major at barnard college 👩🏽‍💻📈</div>  
   
 
 - 🎧 i'm currently working w/ the spotify web api to develop my own content-based music recommendation algorithm (and updating my github!)
