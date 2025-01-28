@@ -36,5 +36,5 @@
 ## <div align="center">& check out what i'm listening to 🎧</div>  
   
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=sachi16&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=8f9aa8&bar_color_cover=false" /></div>
+<div align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=sachi16&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)" /></div>
 <br />
